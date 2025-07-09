@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# [insert project name]
 
-> My portfolio website
+> [insert short project description]
 
 ## Built With
 
@@ -10,7 +10,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://xsidx.github.io/my-portfolio/)
+[Live Demo Link](https://your-demo-link-here)
 
 ## Preview Image
 
@@ -20,15 +20,15 @@
 
 👤 **Author 1**
 
-- GitHub: [XsidX](https://github.com/XsidX)
-- Twitter: [@\_sid_o](https://twitter.com/_sid_o_)
-- LinkedIn: [Sidney Kaguli](https://www.linkedin.com/in/sidney-kaguli-0116801a6/)
+- GitHub: [your-github-username](https://github.com/your-github-username)
+- Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+- LinkedIn: [your-linkedin-name](https://www.linkedin.com/in/your-linkedin-profile)
 
 👤 **Author 2**
 
-- GitHub: [mbonabucya](https://github.com/mbonabucya)
-- Twitter: [Mbonabucya12](https://twitter.com/Mbonabucya12)
-- LinkedIn: [James Mbonabucya](https://www.linkedin.com/in/james-mbonabucya)
+- GitHub: [coauthor-github-username](https://github.com/coauthor-github-username)
+- Twitter: [@coauthor-twitter-handle](https://twitter.com/coauthor-twitter-handle)
+- LinkedIn: [coauthor-linkedin-name](https://www.linkedin.com/in/coauthor-linkedin-profile)
 
 ## 🤝 Contributing
 
