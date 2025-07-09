@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # [insert project name]
 
 > [insert short project description]
@@ -10,7 +8,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://your-demo-link-here)
+[Live Demo Link](https://xsidx.github.io/codekenya-my-portfolio-demo/)
 
 ## Preview Image
 
