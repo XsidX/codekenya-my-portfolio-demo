@@ -14,7 +14,10 @@
 
 ## Preview Image
 
-![mobile view](assets/screenshots/mobileView-day3.JPG?raw=true "Title")
+<p align="center">
+  <img src="assets/screenshots/mobile.png" alt="mobile view" width="200" style="display:inline-block; vertical-align:top;" />
+  <img src="assets/screenshots/desktop.png" alt="desktop view" width="400" style="display:inline-block; vertical-align:top; margin-left:20px;" />
+</p>
 
 ## Authors
 
